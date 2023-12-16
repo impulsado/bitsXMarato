@@ -126,6 +126,15 @@ html::-webkit-scrollbar-track {
 .home .content {
   flex: 1 1 45rem;
 }
+.home .content .button-container {
+  display: flex;
+  justify-content: flex-start; /* Alinea los botones al inicio del contenedor */
+  margin-top: 2rem; /* Espacio por encima de los botones */
+}
+.home .content .btn {
+  /* Tus estilos actuales para .btn */
+  margin-right: 5rem; /* Espacio entre los botones, ajusta según necesites */
+}
 .home .img img {
   width: 100%;
 }
@@ -135,7 +144,7 @@ html::-webkit-scrollbar-track {
   text-shadow: 0.5rem 0 0.5rem rgba(0, 0, 0, 0.1);
 }
 .home .content p {
-  font-size: 1.7rem;
+  font-size: 2rem;
   color: #333;
   padding: 1rem 0;
   line-height: 1.8;
@@ -161,7 +170,7 @@ html::-webkit-scrollbar-track {
 .about .row .content p {
   padding: 1rem 0;
   color: #333;
-  font-size: 1.5rem;
+  font-size: 2rem;
   line-height: 1.8;
 }
 .about .img img {
@@ -191,7 +200,7 @@ html::-webkit-scrollbar-track {
 .IconContainer {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Ajuste automático basado en el ancho mínimo */
   gap: 2rem;
   padding-bottom: 25rem;
 }
@@ -209,17 +218,17 @@ html::-webkit-scrollbar-track {
 .IconContainer .icons i {
   color: var(--main);
   padding-bottom: 0.7rem;
-  font-size: 4.5rem;
+  font-size: calc(2rem + 1vw); /* Tamaño de fuente adaptable para íconos */
 }
 .IconContainer .icons:hover i {
   transform: scale(1.8);
 }
 .IconContainer .icons h3 {
-  font-size: 4.5rem;
+  font-size: calc(1.5rem + 1vw); /* Tamaño de fuente adaptable para títulos */
   padding: 0.5rem 0;
 }
 .IconContainer .icons p {
-  font-size: 1.7rem;
+  font-size: calc(1rem + 0.5vw); /* Tamaño de fuente adaptable para texto */
   color: #333;
 }
 /* Icon Section End */
@@ -266,6 +275,7 @@ html::-webkit-scrollbar-track {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 2rem;
+  padding-bottom: 25rem;
 }
 
 .blogs .boxContainer .box {

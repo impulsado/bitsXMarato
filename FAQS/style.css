@@ -50,11 +50,15 @@ html {
 
 /* Footer */
 footer {
-    background-color: var(--main);
-    padding: 2rem;
+    background-color: red;
+    padding: 0.8rem;
     text-align: center;
-    font-size: 1.1rem;
     position: absolute; /* Posiciona el footer en la parte inferior */
     width: 100%; /* Asegura que el footer ocupe toda la anchura */
     bottom: 0; /* Alinea el footer en la parte inferior */
+  }
+  footer a {
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none; /* Quita el subrayado de los enlaces */
   }
