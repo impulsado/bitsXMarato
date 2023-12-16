@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" />
     <!-- Link Style CSS -->
     <link rel="stylesheet" href="style.css">
+    <!-- Link Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <title>SexED+</title>
 </head>
 
@@ -225,7 +227,75 @@
 
     </section>
     <!-- FAQS Section End -->
+    
+    <!-- Mapa Section Start -->
+    <section id="Mapa" class="mapa"> <!-- Asegúrate de que la sección del mapa tenga el ID 'Mapa' -->
+        <h1 class="heading"><span>Mapa</span></h1>
+        <div id="map"></div>
+          
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                // Coordenadas iniciales para centrar el mapa
+                var ubicacionInicial = [41.5503, 1.5843]; // Centro de Cataluña aproximado
 
+                // Inicializar el mapa en la ubicación inicial
+                var mapa = L.map('map').setView(ubicacionInicial, 8);
+
+                // Añadir capa de mapa
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mapa);
+
+                // Array de ubicaciones fijas (puntos de interés)
+                var puntosDeInteres = [
+                    // Barcelona
+                    { nombre: "Centro de Salud Sexualidad Barcelona 1", coordenadas: [41.3879, 2.1699] },
+                    { nombre: "Clínica Sexualidad y Bienestar 2", coordenadas: [41.3851, 2.1734] },
+                    { nombre: "Instituto de Salud Reproductiva 3", coordenadas: [41.3788, 2.1286] },
+                    { nombre: "Centro Médico Sexualidad Integral 4", coordenadas: [41.4036, 2.1744] },
+                    { nombre: "Salud Sexual y Reproductiva 5", coordenadas: [41.3917, 2.1649] },
+                    { nombre: "Consultorio de Bienestar Sexual 6", coordenadas: [41.3977, 2.1908] },
+                    { nombre: "Espacio de Salud Sexual 8", coordenadas: [41.3856, 2.1625] },
+                    { nombre: "Servicios de Salud Sexual y Reproductiva 9", coordenadas: [41.3925, 2.1416] },
+                    { nombre: "Clínica de Asesoramiento Sexual 10", coordenadas: [41.3984, 2.1582] },
+
+                    // Tarragona
+                    { nombre: "Centro Salud Sexual Tarragona 1", coordenadas: [41.1189, 1.2445] },
+                    { nombre: "Clínica Bienestar y Sexualidad Tarragona 2", coordenadas: [41.1305, 1.2468] },
+                    { nombre: "Instituto Tarragona de Salud Reproductiva 3", coordenadas: [41.1200, 1.2578] },
+                    { nombre: "Centro Médico Integral de Sexualidad Tarragona 4", coordenadas: [41.1150, 1.2490] },
+                    { nombre: "Servicios de Salud Sexual Tarragona 5", coordenadas: [41.1175, 1.2544] },
+                    
+                    // Girona
+                    { nombre: "Centro Salud Sexual Girona 1", coordenadas: [41.9818, 2.8214] },
+                    { nombre: "Clínica Sexualidad Girona 2", coordenadas: [41.9876, 2.8249] },
+                    { nombre: "Instituto Girona de Salud Reproductiva 3", coordenadas: [41.9794, 2.8195] },
+                    { nombre: "Consultorio de Bienestar Sexual Girona 4", coordenadas: [41.9722, 2.8132] },
+                    { nombre: "Espacio de Salud Sexual Girona 5", coordenadas: [41.9800, 2.8256] },
+
+                    // Lleida
+                    { nombre: "Centro de Salud Sexual Lleida 1", coordenadas: [41.6176, 0.6200] },
+                    { nombre: "Clínica de Asesoramiento Sexual Lleida 2", coordenadas: [41.6153, 0.6275] },
+                    { nombre: "Servicios de Salud Sexual y Reproductiva Lleida 3", coordenadas: [41.6200, 0.6222] },
+                    { nombre: "Centro Médico de Sexualidad Integral Lleida 4", coordenadas: [41.6111, 0.6255] },
+                    { nombre: "Consultorio de Salud Reproductiva Lleida 5", coordenadas: [41.6167, 0.6289] },
+                ];
+
+                // Crear marcadores para cada punto de interés
+                puntosDeInteres.forEach(function(punto) {
+                    L.marker(punto.coordenadas).addTo(mapa)
+                        .bindPopup(punto.nombre);
+                });
+
+                // Evento de clic para seleccionar una ubicación
+                mapa.on('click', function (event) {
+                    console.log('Ubicación Seleccionada:', event.latlng);
+                });
+            });
+        </script>
+    </section>
+    <!-- Mapa Section End-->
+
+    <br><br><br><br><br><br><br><br><br><br>
     <!-- Blog Section Start -->
     <section class="blogs" id="Blog">
 

@@ -444,3 +444,8 @@ footer a {
     font-size: 50%;
   }
 }
+
+#map {
+  height: 600px;
+  width: 100%;
+}
