@@ -1,0 +1,60 @@
+/* Estilos globales */
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-x: hidden; /* Previene el desplazamiento horizontal */
+  }
+
+/* Detalle del Post de FAQ Start */
+.faq-detail .container {
+    padding: 4rem 9%;
+    text-align: left;
+    flex: 1; /* Permite que el contenido crezca para empujar el footer hacia abajo */
+}
+
+.faq-detail .title {
+    font-size: 3rem;
+    color: #ff041d;
+    margin-bottom: 1rem;
+}
+
+.faq-detail .date {
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+.faq-detail .detail-img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+.faq-detail .content {
+    font-size: 1.6rem;
+    line-height: 1.8;
+    color: #333;
+}
+
+.faq-detail .btn {
+    margin-top: 3rem;
+}
+/* Detalle del Post de FAQ End */
+
+/* Footer */
+footer {
+    background-color: var(--main);
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.1rem;
+    position: absolute; /* Posiciona el footer en la parte inferior */
+    width: 100%; /* Asegura que el footer ocupe toda la anchura */
+    bottom: 0; /* Alinea el footer en la parte inferior */
+  }
