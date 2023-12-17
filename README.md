@@ -1,4 +1,4 @@
-# [bitsXMarato23](https://bits-x-marato23.vercel.app/) 🔐 🌐
+# [bitsXMarato23](https://bits-x-marato23.vercel.app/) 🔐🌐
 **Repte 3:** SexED+ <br>
 **Objectiu:** Pàgina web de divulgació per combatre la desinformació. <br>
 **Funcionalitats:** 
@@ -10,7 +10,9 @@
 
 <img src="https://raw.githubusercontent.com/impulsado/bitsXMarato23/main/images/banner.jpg"/>
 
-<br><br><br>
+<br><br>
+
 **Made by:** <br>
 [FerranAlonso](https://github.com/FerranAlonso)<br>
 [MounaimChakroun](https://github.com/Mounaimchakroun)<br>
+[impulsado](https://github.com/impulsado)
