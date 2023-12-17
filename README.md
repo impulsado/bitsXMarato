@@ -3,8 +3,8 @@
 **Objectiu:** Pàgina web de divulgació per combatre la desinformació. <br>
 **Funcionalitats:** 
 - Web adaptable per a totes les pantalles.
-- ChatBot sense ús de tercers.
-- Implementació de Mapa amb ubicacions amb centres de salut.
+- ChatBot sense ús de serveis de tercers.
+- Implementació d'un Mapa amb ubicacions amb centres de salut.
 
 <br>
 
