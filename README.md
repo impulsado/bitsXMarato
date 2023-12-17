@@ -9,3 +9,7 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/impulsado/bitsXMarato23/main/images/banner.jpg"/>
+
+<br><br><br>
+**Made by:** <br>
+[FerranAlonso](https://github.com/FerranAlonso)<br>
