@@ -1,0 +1,340 @@
+{
+    "preguntes_frequents": [
+    {
+    "paraules_clau": ["hola"],
+    "resposta": "Hola!!! Benvingut al chatbot de SexED+, recorda que això és un espai segur. Quina es la teva primera pregunta??"
+    },
+    {
+    "paraules_clau": ["canvis físics", "desenvolupament sexual"],
+    "resposta": "La pubertat és una etapa de desenvolupament en la qual es produeixen canvis físics i sexuals, com el creixement dels pits, la veu més greu i el desenvolupament dels genitals."
+    },
+    {
+    "paraules_clau": ["edat", "canvis hormonals"],
+    "resposta": "La pubertat generalment comença entre els 8 i els 14 anys, depenent de factors com el sexe i els gens. Els canvis hormonals juguen un paper important."
+    },
+    {
+    "paraules_clau": ["infeccions sexualment transmissibles", "prevenció"],
+    "resposta": "Les ETS són infeccions que es transmeten de persona a persona mitjançant el contacte sexual. Utilitzar preservatius i practicar sexe segur ajuda a prevenir-les."
+    },
+    {
+    "paraules_clau": ["sexe segur", "preservatius"],
+    "resposta": "L'ús consistent de preservatius durant les relacions sexuals i la comunicació oberta amb la parella sobre la salut sexual són maneres eficaces de prevenir les ETS."
+    },
+    {
+    "paraules_clau": ["prevenció de l'embaràs", "anticoncepció"],
+    "resposta": "La contracepció és l'ús de mètodes per prevenir l'embaràs. Hi ha diverses opcions disponibles, com els anticonceptius orals, els preservatius i els dispositius intrauterins (DIU)."
+    },
+    {
+    "paraules_clau": ["planificació familiar", "responsabilitat"],
+    "resposta": "És important utilitzar protecció sempre que no es vulgui concebre un fill. Les parelles han de parlar de planificació familiar i prendre decisions responsables."
+    },
+    {
+    "paraules_clau": ["autonomia", "respecte"],
+    "resposta": "Els drets sexuals inclouen el dret a la autonomia, la privadesa i el respecte per les decisions individuals relacionades amb la vida sexual."
+    },
+    {
+    "paraules_clau": ["orientació sexual", "identitat de gènere"],
+    "resposta": "La diversitat sexual fa referència a la varietat d'orientacions sexuals i identitats de gènere presents a la societat, com ara lesbianes, gais, bisexuals, transgènere i altres."
+    },
+    {
+    "paraules_clau": ["comunicació oberta", "educació sexual"],
+    "resposta": "Establir una comunicació oberta i honesta amb els fills és crucial. Podeu utilitzar materials educatius i proporcionar informació gradualment segons la seva edat."
+    },
+    {
+      "paraules_clau": ["que és la educació sexual"],
+      "resposta": "L'educació sexual és un procés que proporciona informació i desenvolupa habilitats relacionades amb aspectes sexuals i afectius."
+      },
+    {
+    "paraules_clau": ["acord mutu", "respecte"],
+    "resposta": "El consentiment sexual és quan totes les parts involucrades estan d'acord i són conscients de les accions sexuals. És important per garantir relacions sexuals saludables i respectuoses."
+    },
+    {
+    "paraules_clau": ["nàusees", "falta de menstruació"],
+    "resposta": "Els símptomes d'embaràs poden incloure nàuseas, canvis en els pits i falta de menstruació. És important fer una prova d'embaràs per confirmar."
+    },
+    {
+    "paraules_clau": ["cicle menstrual", "higiene íntima"],
+    "resposta": "La menstruació és part del cicle menstrual femení i implica canvis hormonals. És crucial mantenir una bona higiene íntima i comprendre el propi cicle menstrual."
+    },
+    {
+    "paraules_clau": ["atracció emocional i sexual", "heterosexual", "homosexual"],
+    "resposta": "L'orientació sexual es refereix a la preferència per la parella, ja sigui heterosexual (atraure's cap al sexe opost) o homosexual (atraure's cap al mateix sexe)."
+    },
+    {
+    "paraules_clau": ["identitat personal", "gènere assignat al naixement"],
+    "resposta": "La identitat de gènere és com una persona es sent respecte al seu gènere, que pot ser diferent del gènere assignat al naixement."
+    },
+    {
+    "paraules_clau": ["elecció reproductiva", "accés a la salut sexual"],
+    "resposta": "Els drets reproductius inclouen la capacitat de prendre decisions sobre la reproducció, tenir accés a la informació sobre salut sexual i reproductiva i rebre atenció mèdica adequada."
+    },
+    {
+    "paraules_clau": ["realitat vs. ficció", "educació sexual"],
+    "resposta": "La pornografia pot oferir una visió distorsionada de la sexualitat. És important educar-se sobre relacions saludables i diferenciar entre la ficció i la realitat."
+    },
+    {
+    "paraules_clau": ["infeccions sexualment transmissibles", "símptomes", "prevenció"],
+    "resposta": "Les ITS són infeccions que es transmeten de persona a persona a través del contacte sexual. Algunes poden presentar símptomes com picor, dolor o secreció anormal."
+    },
+    {
+    "paraules_clau": ["benestar emocional", "estrès"],
+    "resposta": "La salut mental pot influir en la salut sexual. L'estrès i altres factors emocionals poden afectar la libido i la satisfacció sexual."
+    },
+    {
+    "paraules_clau": ["normalitat", "diversitat sexual"],
+    "resposta": "Sí, les fantasies sexuals són normals i poden ser una part saludable de la vida sexual. És important respectar els límits personals i comunicar-se amb la parella."
+    },
+    {
+    "paraules_clau": ["coneixements", "habilitats", "valors"],
+    "resposta": "L'educació sexual integral ofereix coneixements, habilitats i valors que permeten prendre decisions informades i responsables sobre la salut sexual i les relacions."
+    },
+    {
+    "paraules_clau": ["anticoncepció", "planificació familiar"],
+    "resposta": "Utilitzar anticonceptius com els preservatius, les pastilles anticonceptives o altres mètodes és una manera efectiva de prevenir l'embaràs no desitjat."
+    },
+    {
+    "paraules_clau": ["estrogen", "progesterona", "testosterona"],
+    "resposta": "Les hormones sexuals, com l'estrogen, la progesterona i la testosterona, juguen un paper clau en el desenvolupament i el funcionament del sistema reproductor i sexual."
+    },
+    {
+    "paraules_clau": ["canvis hormonals", "símptomes"],
+    "resposta": "La menopausa implica una disminució de les hormones sexuals i pot causar símptomes com sequedat vaginal i canvis en la libido. El suport mèdic pot ser útil."
+    },
+    {
+    "paraules_clau": ["preservatius", "monogàmia"],
+    "resposta": "Les pràctiques sexuals segures inclouen l'ús de preservatius, la monogàmia i la comunicació oberta sobre la salut sexual amb la parella."
+    },
+    {
+    "paraules_clau": ["consentiment", "agressió sexual"],
+    "resposta": "La violència sexual és quan s'exerceix força o es pressiona a algú per participar en una activitat sexual sense el seu consentiment. És un delicte i una violació dels drets individuals."
+    },
+    {
+    "paraules_clau": ["connexió emocional", "satisfacció sexual"],
+    "resposta": "Les relacions afectives poden contribuir a una connexió emocional més profunda, la qual cosa pot millorar la satisfacció sexual i la comunicació entre les parelles."
+    },
+    {
+    "paraules_clau": ["dieta equilibrada", "exercici"],
+    "resposta": "Una dieta equilibrada i un estil de vida saludable, incloent l'exercici regular, poden contribuir a la salut general, incloent la salut sexual."
+    },
+    {
+    "paraules_clau": ["decisió conscient", "anticoncepció"],
+    "resposta": "La planificació familiar implica prendre decisions conscients sobre quan i quant tenir fills, utilitzant mètodes anticonceptius per controlar la reproducció."
+    },
+    {
+    "paraules_clau": ["límits personals", "comunicació"],
+    "resposta": "Parlar sobre el respecte propi implica establir límits personals, comunicar-los clarament i rebutjar la pressió sexual no desitjada."
+    },
+    {
+    "paraules_clau": ["autoexploració", "normalitat"],
+    "resposta": "La masturbació és la pràctica de l'autoexploració sexual i és considerada normal i saludable. Pot ajudar a conèixer el propi cos i les preferències sexuals."
+    },
+    {
+    "paraules_clau": ["canvis físics", "desenvolupament sexual"],
+    "resposta": "La pubertat és una etapa de desenvolupament en la qual es produeixen canvis físics i sexuals, com el creixement dels pits, la veu més greu i el desenvolupament dels genitals."
+    },
+    {
+    "paraules_clau": ["edat", "canvis hormonals"],
+    "resposta": "La pubertat generalment comença entre els 8 i els 14 anys, depenent de factors com el sexe i els gens. Els canvis hormonals juguen un paper important."
+    },
+    {
+    "paraules_clau": ["infeccions sexualment transmissibles", "prevenció"],
+    "resposta": "Les ETS són infeccions que es transmeten de persona a persona mitjançant el contacte sexual. Utilitzar preservatius i practicar sexe segur ajuda a prevenir-les."
+    },
+    {
+    "paraules_clau": ["sexe segur", "preservatius"],
+    "resposta": "L'ús consistent de preservatius durant les relacions sexuals i la comunicació oberta amb la parella sobre la salut sexual són maneres eficaces de prevenir les ETS."
+    },
+    {
+    "paraules_clau": ["prevenció de l'embaràs", "anticoncepció"],
+    "resposta": "La contracepció és l'ús de mètodes per prevenir l'embaràs. Hi ha diverses opcions disponibles, com els anticonceptius orals, els preservatius i els dispositius intrauterins (DIU)."
+    },
+    {
+    "paraules_clau": ["planificació familiar", "responsabilitat"],
+    "resposta": "És important utilitzar protecció sempre que no es vulgui concebre un fill. Les parelles han de parlar de planificació familiar i prendre decisions responsables."
+    },
+    {
+    "paraules_clau": ["autonomia", "respecte"],
+    "resposta": "Els drets sexuals inclouen el dret a la autonomia, la privadesa i el respecte per les decisions individuals relacionades amb la vida sexual."
+    },
+    {
+    "paraules_clau": ["orientació sexual", "identitat de gènere"],
+    "resposta": "La diversitat sexual fa referència a la varietat d'orientacions sexuals i identitats de gènere presents a la societat, com ara lesbianes, gais, bisexuals, transgènere i altres."
+    },
+    {
+    "paraules_clau": ["comunicació oberta", "educació sexual"],
+    "resposta": "Establir una comunicació oberta i honesta amb els fills és crucial. Podeu utilitzar materials educatius i proporcionar informació gradualment segons la seva edat."
+    },
+    {
+    "paraules_clau": ["acord mutu", "respecte"],
+    "resposta": "El consentiment sexual és quan totes les parts involucrades estan d'acord i són conscients de les accions sexuals. És important per garantir relacions sexuals saludables i respectuoses."
+    },
+    {
+    "paraules_clau": ["nàusees", "falta de menstruació"],
+    "resposta": "Els símptomes d'embaràs poden incloure nàuseas, canvis en els pits i falta de menstruació. És important fer una prova d'embaràs per confirmar."
+    },
+    {
+    "paraules_clau": ["cicle menstrual", "higiene íntima"],
+    "resposta": "La menstruació és part del cicle menstrual femení i implica canvis hormonals. És crucial mantenir una bona higiene íntima i comprendre el propi cicle menstrual."
+    },
+    {
+    "paraules_clau": ["atracció emocional i sexual", "heterosexual", "homosexual"],
+    "resposta": "L'orientació sexual es refereix a la preferència per la parella, ja sigui heterosexual (atraure's cap al sexe opost) o homosexual (atraure's cap al mateix sexe)."
+    },
+    {
+    "paraules_clau": ["identitat personal", "gènere assignat al naixement"],
+    "resposta": "La identitat de gènere és com una persona es sent respecte al seu gènere, que pot ser diferent del gènere assignat al naixement."
+    },
+    {
+    "paraules_clau": ["elecció reproductiva", "accés a la salut sexual"],
+    "resposta": "Els drets reproductius inclouen la capacitat de prendre decisions sobre la reproducció, tenir accés a la informació sobre salut sexual i reproductiva i rebre atenció mèdica adequada."
+    },
+    {
+    "paraules_clau": ["realitat vs. ficció", "educació sexual"],
+    "resposta": "La pornografia pot oferir una visió distorsionada de la sexualitat. És important educar-se sobre relacions saludables i diferenciar entre la ficció i la realitat."
+    },
+    {
+    "paraules_clau": ["infeccions sexualment transmissibles", "símptomes", "prevenció"],
+    "resposta": "Les ITS són infeccions que es transmeten de persona a persona a través del contacte sexual. Algunes poden presentar símptomes com picor, dolor o secreció anormal."
+    },
+    {
+    "paraules_clau": ["benestar emocional", "estrès"],
+    "resposta": "La salut mental pot influir en la salut sexual. L'estrès i altres factors emocionals poden afectar la libido i la satisfacció sexual."
+    },
+    {
+    "paraules_clau": ["normalitat", "diversitat sexual"],
+    "resposta": "Sí, les fantasies sexuals són normals i poden ser una part saludable de la vida sexual. És important respectar els límits personals i comunicar-se amb la parella."
+    },
+    {
+    "paraules_clau": ["coneixements", "habilitats", "valors"],
+    "resposta": "L'educació sexual integral ofereix coneixements, habilitats i valors que permeten prendre decisions informades i responsables sobre la salut sexual i les relacions."
+    },
+    {
+    "paraules_clau": ["anticoncepció", "planificació familiar"],
+    "resposta": "Utilitzar anticonceptius com els preservatius, les pastilles anticonceptives o altres mètodes és una manera efectiva de prevenir l'embaràs no desitjat."
+    },
+    {
+    "paraules_clau": ["estrogen", "progesterona", "testosterona"],
+    "resposta": "Les hormones sexuals, com l'estrogen, la progesterona i la testosterona, juguen un paper clau en el desenvolupament i el funcionament del sistema reproductor i sexual."
+    },
+    {
+    "paraules_clau": ["canvis hormonals", "símptomes"],
+    "resposta": "La menopausa implica una disminució de les hormones sexuals i pot causar símptomes com sequedat vaginal i canvis en la libido. El suport mèdic pot ser útil."
+    },
+    {
+    "paraules_clau": ["preservatius", "monogàmia"],
+    "resposta": "Les pràctiques sexuals segures inclouen l'ús de preservatius, la monogàmia i la comunicació oberta sobre la salut sexual amb la parella."
+    },
+    {
+    "paraules_clau": ["consentiment", "agressió sexual"],
+    "resposta": "La violència sexual és quan s'exerceix força o es pressiona a algú per participar en una activitat sexual sense el seu consentiment. És un delicte i una violació dels drets individuals."
+    },
+    {
+    "paraules_clau": ["connexió emocional", "satisfacció sexual"],
+    "resposta": "Les relacions afectives poden contribuir a una connexió emocional més profunda, la qual cosa pot millorar la satisfacció sexual i la comunicació entre les parelles."
+    },
+    {
+    "paraules_clau": ["dieta equilibrada", "exercici"],
+    "resposta": "Una dieta equilibrada i un estil de vida saludable, incloent l'exercici regular, poden contribuir a la salut general, incloent la salut sexual."
+    },
+    {
+    "paraules_clau": ["decisió conscient", "anticoncepció"],
+    "resposta": "La planificació familiar implica prendre decisions conscients sobre quan i quant tenir fills, utilitzant mètodes anticonceptius per controlar la reproducció."
+    },
+    {
+    "paraules_clau": ["límits personals", "comunicació"],
+    "resposta": "Parlar sobre el respecte propi implica establir límits personals, comunicar-los clarament i rebutjar la pressió sexual no desitjada."
+    },
+    {
+    "paraules_clau": ["autoexploració", "normalitat"],
+    "resposta": "La masturbació és la pràctica de l'autoexploració sexual i és considerada normal i saludable. Pot ajudar a conèixer el propi cos i les preferències sexuals."
+    },
+    {
+      "paraules_clau": ["relacions obertes", "comunicació", "acord"],
+      "resposta": "Què són les relacions obertes? Les relacions obertes són quan les parelles acorden tenir llibertat per tenir altres relacions sexuals o romàntiques. La comunicació i l'acord són claus en aquesta dinàmica."
+    },
+    {
+      "paraules_clau": ["salut sexual", "exàmens regulars"],
+      "resposta": "Per què és important fer-se exàmens de salut sexual regulars? Els exàmens regulars poden detectar precoçment problemes de salut sexual, com ETS, permetent un tractament oportú i mantenint la salut general."
+    },
+    {
+      "paraules_clau": ["pràctiques sexuals", "comunicació", "preferències"],
+      "resposta": "Com es pot parlar de pràctiques sexuals i preferències amb la parella? La comunicació oberta i respectuosa és clau per comprendre les preferències i assegurar-se que totes les parts es sentin còmodes amb les pràctiques sexuals."
+    },
+    {
+      "paraules_clau": ["anatomia", "educació sexual", "divulgació"],
+      "resposta": "Com es pot millorar la comprensió de l'anatomia mitjançant l'educació sexual? L'educació sexual i la divulgació precisa poden millorar la comprensió de l'anatomia, afavorint una relació més saludable amb el propi cos i el dels altres."
+    },
+    {
+      "paraules_clau": ["expressió de gènere", "acceptació", "respecte"],
+      "resposta": "Per què és important la acceptació i el respecte per a l'expressió de gènere? L'acceptació i el respecte són fonamentals per crear un entorn on les persones puguin expressar lliurement el seu gènere sense judicis ni discriminació."
+    },
+    {
+      "paraules_clau": ["joguines sexuals", "seguretat", "consentiment"],
+      "resposta": "Quins són els aspectes importants a considerar en l'ús de joguines sexuals? La seguretat, la higiene i assegurar-se del consentiment mutu són essencials quan es fan servir joguines sexuals per garantir una experiència positiva i segura."
+    },
+    {
+      "paraules_clau": ["desig sexual", "variabilitat", "comunicació"],
+      "resposta": "Per què el desig sexual pot variar i com es pot abordar a nivell de parella? El desig sexual pot veure's afectat per diversos factors. La comunicació oberta sobre les necessitats i expectatives pot ajudar a abordar aquesta variabilitat dins de la relació."
+    },
+    {
+      "paraules_clau": ["educació sexual", "gènere", "diversitat"],
+      "resposta": "Com pot l'educació sexual abordar la diversitat de gènere? Una educació sexual inclusiva ha de reconèixer i respectar la diversitat de gènere, oferint informació i suport per a totes les identitats de gènere."
+    },
+    {
+      "paraules_clau": ["impacte social", "judicis", "diversitat sexual"],
+      "resposta": "Quin és l'impacte social dels judicis sobre la diversitat sexual? Els judicis poden contribuir a la discriminació i afectar la salut mental i emocional de les persones amb diverses orientacions sexuals. És important treballar cap a una societat més tolerant i inclusiva."
+    },
+    {
+      "paraules_clau": ["efectes psicològics", "abús sexual", "suport"],
+      "resposta": "Quins poden ser els efectes psicològics de l'abús sexual i com es pot oferir suport? L'abús sexual pot tenir impactes psicològics greus. És important buscar ajuda professional i suport per a la recuperació."
+    },
+    {
+      "paraules_clau": ["teràpia sexual", "parella", "comunicació"],
+      "resposta": "Com pot la teràpia sexual ajudar a les parelles amb dificultats? La teràpia sexual pot oferir un espai segur per abordar problemes de comunicació, intimitat i altres qüestions que afecten la relació."
+    },
+    {
+    "paraules_clau": ["relacions obertes", "comunicació", "acord"],
+    "resposta": "Què són les relacions obertes? Les relacions obertes són quan les parelles acorden tenir llibertat per tenir altres relacions sexuals o romàntiques. La comunicació i l'acord són claus en aquesta dinàmica."
+    },
+    {
+    "paraules_clau": ["salut sexual", "exàmens regulars"],
+    "resposta": "Per què és important fer-se exàmens de salut sexual regulars? Els exàmens regulars poden detectar precoçment problemes de salut sexual, com ETS, permetent un tractament oportú i mantenint la salut general."
+    },
+    {
+    "paraules_clau": ["pràctiques sexuals", "comunicació", "preferències"],
+    "resposta": "Com es pot parlar de pràctiques sexuals i preferències amb la parella? La comunicació oberta i respectuosa és clau per comprendre les preferències i assegurar-se que totes les parts es sentin còmodes amb les pràctiques sexuals."
+    },
+    {
+    "paraules_clau": ["anatomia", "educació sexual", "divulgació"],
+    "resposta": "Com es pot millorar la comprensió de l'anatomia mitjançant l'educació sexual? L'educació sexual i la divulgació precisa poden millorar la comprensió de l'anatomia, afavorint una relació més saludable amb el propi cos i el dels altres."
+    },
+    {
+    "paraules_clau": ["expressió de gènere", "acceptació", "respecte"],
+    "resposta": "Per què és important la acceptació i el respecte per a l'expressió de gènere? L'acceptació i el respecte són fonamentals per crear un entorn on les persones puguin expressar lliurement el seu gènere sense judicis ni discriminació."
+    },
+    {
+    "paraules_clau": ["joguines sexuals", "seguretat", "consentiment"],
+    "resposta": "Quins són els aspectes importants a considerar en l'ús de joguines sexuals? La seguretat, la higiene i assegurar-se del consentiment mutu són essencials quan es fan servir joguines sexuals per garantir una experiència positiva i segura."
+    },
+    {
+    "paraules_clau": ["desig sexual", "variabilitat", "comunicació"],
+    "resposta": "Per què el desig sexual pot variar i com es pot abordar a nivell de parella? El desig sexual pot veure's afectat per diversos factors. La comunicació oberta sobre les necessitats i expectatives pot ajudar a abordar aquesta variabilitat dins de la relació."
+    },
+    {
+    "paraules_clau": ["educació sexual", "gènere", "diversitat"],
+    "resposta": "Com pot l'educació sexual abordar la diversitat de gènere? Una educació sexual inclusiva ha de reconèixer i respectar la diversitat de gènere, oferint informació i suport per a totes les identitats de gènere."
+    },
+    {
+    "paraules_clau": ["impacte social", "judicis", "diversitat sexual"],
+    "resposta": "Quin és l'impacte social dels judicis sobre la diversitat sexual? Els judicis poden contribuir a la discriminació i afectar la salut mental i emocional de les persones amb diverses orientacions sexuals. És important treballar cap a una societat més tolerant i inclusiva."
+    },
+    {
+    "paraules_clau": ["efectes psicològics", "abús sexual", "suport"],
+    "resposta": "Quins poden ser els efectes psicològics de l'abús sexual i com es pot oferir suport? L'abús sexual pot tenir impactes psicològics greus. És important buscar ajuda professional i suport per a la recuperació."
+    },
+    {
+    "paraules_clau": ["teràpia sexual", "parella", "comunicació"],
+    "resposta": "Com pot la teràpia sexual ajudar a les parelles amb dificultats? La teràpia sexual pot oferir un espai segur per abordar problemes de comunicació, intimitat i altres qüestions que afecten la relació."
+    }
+    ]
+ } 
