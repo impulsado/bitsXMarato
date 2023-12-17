@@ -12,6 +12,10 @@ html {
   }
 
 /* Detalle del Post de FAQ Start */
+.faq-detail {
+  position: relative; /* Establece un contexto de posicionamiento */
+  padding-bottom: 60px; /* Espacio adicional en la parte inferior para el botón */
+}
 .faq-detail .container {
     padding: 4rem 9%;
     text-align: left;
@@ -62,3 +66,20 @@ footer {
     font-size: 1.5rem;
     text-decoration: none; /* Quita el subrayado de los enlaces */
   }
+
+/* Estilo para el botón .btn-back */
+.btn-back {
+  position: absolute; /* Posición absoluta dentro de su contenedor relativo */
+  bottom: 5%; /* Ubicación desde la parte inferior del contenedor */
+  left: 9%; /* Ubicación alineada con el inicio del texto del contenido */
+  padding: 0.25rem 0.5rem; /* Espaciado interno */
+  background-color: #ff041d; /* Color de fondo */
+  color: white; /* Color del texto e icono */
+  text-decoration: none; /* Elimina el subrayado del texto */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Sombra para resaltar el botón */
+}
+
+.btn-back .fas {
+  margin-right: 5px; /* Espacio entre el icono y el texto */
+}
